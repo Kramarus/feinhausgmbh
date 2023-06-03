@@ -1,0 +1,33 @@
+
+    /* Custom styles */
+    body {
+      background-color: #f2f2f2;
+    }
+
+    .maintenance-page {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+    }
+
+    .maintenance-page .logo {
+      width: 150px;
+      margin-bottom: 20px;
+    }
+
+    .maintenance-page h1 {
+      margin-bottom: 20px;
+      color: #212121;
+    }
+
+    .maintenance-page p {
+      font-size: 16px;
+      color: #757575;
+    }
+
+    .text-left {
+        text-align: left;
+    }
